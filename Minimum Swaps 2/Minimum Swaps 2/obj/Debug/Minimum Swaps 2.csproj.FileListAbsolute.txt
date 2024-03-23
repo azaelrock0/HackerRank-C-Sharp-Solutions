@@ -1,0 +1,8 @@
+C:\Users\Jerry\source\repos\Minimum Swaps 2\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.exe.config
+C:\Users\Jerry\source\repos\Minimum Swaps 2\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.exe
+C:\Users\Jerry\source\repos\Minimum Swaps 2\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.pdb
+C:\Users\Jerry\source\repos\Minimum Swaps 2\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.csproj.AssemblyReference.cache
+C:\Users\Jerry\source\repos\Minimum Swaps 2\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jerry\source\repos\Minimum Swaps 2\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\Minimum Swaps 2\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.exe
+C:\Users\Jerry\source\repos\Minimum Swaps 2\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.pdb

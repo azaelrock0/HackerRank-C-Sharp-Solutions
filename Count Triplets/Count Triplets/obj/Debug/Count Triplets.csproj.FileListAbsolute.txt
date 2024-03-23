@@ -1,0 +1,8 @@
+C:\Users\Jerry\source\repos\Count Triplets\Count Triplets\bin\Debug\Count Triplets WTF.exe.config
+C:\Users\Jerry\source\repos\Count Triplets\Count Triplets\bin\Debug\Count Triplets WTF.exe
+C:\Users\Jerry\source\repos\Count Triplets\Count Triplets\bin\Debug\Count Triplets WTF.pdb
+C:\Users\Jerry\source\repos\Count Triplets\Count Triplets\obj\Debug\Count Triplets.csproj.AssemblyReference.cache
+C:\Users\Jerry\source\repos\Count Triplets\Count Triplets\obj\Debug\Count Triplets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jerry\source\repos\Count Triplets\Count Triplets\obj\Debug\Count Triplets.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\Count Triplets\Count Triplets\obj\Debug\Count Triplets WTF.exe
+C:\Users\Jerry\source\repos\Count Triplets\Count Triplets\obj\Debug\Count Triplets WTF.pdb

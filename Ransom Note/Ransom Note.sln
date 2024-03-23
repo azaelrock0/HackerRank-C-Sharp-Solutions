@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ransom Note", "Ransom Note\Ransom Note.csproj", "{A6B87350-FF0F-4ED1-9F32-87D44C43A729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B87350-FF0F-4ED1-9F32-87D44C43A729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B87350-FF0F-4ED1-9F32-87D44C43A729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B87350-FF0F-4ED1-9F32-87D44C43A729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B87350-FF0F-4ED1-9F32-87D44C43A729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {849F0144-3068-4065-A9DF-8810C3818EAD}
+	EndGlobalSection
+EndGlobal
