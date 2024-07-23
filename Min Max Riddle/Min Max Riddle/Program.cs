@@ -18,7 +18,6 @@ class Solution
     // Complete the riddle function below.
     static long[] riddle(long[] arr)
     {
-        SortedDictionary<int, long> dictResults = new SortedDictionary<int, long>();
         long[] results = new long[arr.Length];
         int left, right;
         for (int i = 0; i < results.Length; i++)
