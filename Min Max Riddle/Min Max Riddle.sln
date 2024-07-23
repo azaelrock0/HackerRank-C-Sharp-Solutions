@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Max Riddle", "Min Max Riddle\Min Max Riddle.csproj", "{0357ACD0-E1E0-45C7-AAFA-8F5A8FA08C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0357ACD0-E1E0-45C7-AAFA-8F5A8FA08C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0357ACD0-E1E0-45C7-AAFA-8F5A8FA08C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0357ACD0-E1E0-45C7-AAFA-8F5A8FA08C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0357ACD0-E1E0-45C7-AAFA-8F5A8FA08C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09E20CFA-41B3-42C3-ACFB-E3EA704C55E4}
+	EndGlobalSection
+EndGlobal
