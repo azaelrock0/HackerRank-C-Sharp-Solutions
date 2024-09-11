@@ -93,15 +93,7 @@ class Result
                     queue.Dequeue();
                 }
                 total += longLib;
-                if (longRoad * (count - 1) < 0)
-                {
-
-                }
                 total += longRoad * (count - 1);
-                if (total < 0)
-                {
-
-                }
             }
         }
         int currentCity = 0;
